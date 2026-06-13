@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats (FIXED)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -45,11 +45,11 @@
 
 ---
 
-### ⚡ Important Note
-👉 Streak Stats رو عمداً حذف کردم چون:
-- خیلی وقت‌ها Down میشه
-- GitHub بعضی وقت‌ها بلاک/Cache می‌کنه
-- باعث همین خطاهایی که دیدی میشه
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -67,4 +67,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I prefer clean backend architecture over messy over-engineered code 🚀
+> I enjoy building clean and scalable backend systems 🚀
