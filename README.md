@@ -2,19 +2,18 @@
 <h3 align="center">Backend Developer | .NET Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsxprtxz297&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gsxprtxz297&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="250" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="250" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 🚀 About Me
-- 💻 Passionate about Backend Development (.NET / ASP.NET Core)
-- 🧠 Interested in System Design & High Performance Systems
+- 💻 Backend Developer (.NET / ASP.NET Core)
+- 🧠 Interested in System Design & Scalable Architectures
 - ⚡ Love solving complex problems
-- 🌱 Currently improving architecture & scalability skills
-- 📫 Reach me: **mohammad.masoud80@gmail.com**
+- 📫 Email: **mohammad.masoud80@gmail.com**
 
 ---
 
@@ -30,34 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsxprtxz297&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsxprtxz297&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gsxprtxz297&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -79,4 +50,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I enjoy building scalable backend systems that actually survive real-world load 🚀
+> I love building backend systems that actually scale in real-world production 🚀
