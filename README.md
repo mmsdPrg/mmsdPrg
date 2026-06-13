@@ -2,19 +2,18 @@
 <h3 align="center">Backend Developer | .NET Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsxprtxz297&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mmsdPrg&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="250" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="250" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 🚀 About Me
-- 💻 Passionate about Backend Development (.NET / ASP.NET Core)
-- 🧠 Interested in System Design & High Performance Systems
-- ⚡ Love solving complex problems
-- 🌱 Currently improving architecture & scalability skills
-- 📫 Reach me: **mohammad.masoud80@gmail.com**
+- 💻 Backend Developer (.NET / ASP.NET Core)
+- 🧠 Passionate about System Design & Clean Architecture
+- ⚡ Love solving real-world problems
+- 📫 Email: **mohammad.masoud80@gmail.com**
 
 ---
 
@@ -34,31 +33,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsxprtxz297&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsxprtxz297&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gsxprtxz297&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsdPrg&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+### ⚡ Important Note
+👉 Streak Stats رو عمداً حذف کردم چون:
+- خیلی وقت‌ها Down میشه
+- GitHub بعضی وقت‌ها بلاک/Cache می‌کنه
+- باعث همین خطاهایی که دیدی میشه
 
 ---
 
@@ -71,12 +62,9 @@
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-> I enjoy building scalable backend systems that actually survive real-world load 🚀
+> I prefer clean backend architecture over messy over-engineered code 🚀
