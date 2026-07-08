@@ -98,36 +98,10 @@ SQL Server • Redis • Elasticsearch • RabbitMQ • Docker
 
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsdPrg&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsdPrg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mmsdPrg&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 🍎 Music
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Currently%20Listening-Apple%20Music-0D1117?style=for-the-badge&logo=applemusic&logoColor=FA243C"/>
-
-</p>
 
 <p align="center">
 
