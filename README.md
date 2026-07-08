@@ -1,17 +1,15 @@
-
-
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Masoud</h1>
 
 <h3 align="center">
-  Backend Developer | .NET Developer
+Backend Developer | .NET Developer | Clean Architecture Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Building+Clean+%26+Scalable+Backends;RESTful+API+%7C+SQL+Server+%7C+EF+Core;Clean+Architecture+%7C+CQRS+%7C+DDD" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Building+Clean+%26+Scalable+Backends;RESTful+API+%7C+SQL+Server+%7C+EF+Core;Clean+Architecture+%7C+CQRS+%7C+DDD"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmsdPrg&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mmsdPrg&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 </p>
 
 ---
@@ -25,115 +23,148 @@ public class MohammadSalehMasoud
     public string MainStack => ".NET / ASP.NET Core";
     public string Database => "SQL Server";
     public string Architecture => "Clean Architecture";
-    public string Focus => "Building scalable, secure and maintainable systems";
 
-    public string[] Interests =>
+    public string[] Skills =>
     [
-        "RESTful APIs",
+        "RESTful API Development",
+        "Entity Framework Core",
         "System Design",
-        "Clean Code",
         "Microservices",
-        "Database Design",
-        "Performance Optimization"
+        "Database Optimization",
+        "Clean Code"
     ];
 }
 ```
 
 ---
 
-## 🚀 Main Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,js,ts,html,css,bootstrap,python,git,github,docker,postman,redis,elasticsearch,rabbitmq&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,js,ts,html,css,bootstrap,python,git,github,docker,postman,redis,elasticsearch,rabbitmq&theme=dark"/>
 </p>
 
 ---
 
-## 📦 Popular .NET Libraries
-
-- MediatR
-- AutoMapper
-- FluentValidation
-- Serilog
-- Hangfire
-- Dapper
-- Entity Framework Core
-- ASP.NET Identity
-- JWT Authentication
-- Polly
-- Quartz.NET
-- Swagger / Swashbuckle
-- SignalR
-- Redis
-- RabbitMQ
-- Elasticsearch
-
----
-
-## 🏗️ Architecture
-
-- Clean Architecture
-- CQRS
-- DDD
-- Repository Pattern
-- Unit Of Work
-- RESTful API
-- Microservices
-- SOLID Principles
-
----
-
-## 🗄️ Databases & Tools
-
-- SQL Server
-- Redis
-- Elasticsearch
-- RabbitMQ
-- Docker
-- Git
-- GitHub
-- Visual Studio
-- Rider
-- Postman
-
----
-
-## 📊 GitHub Stats
+# ⚡ .NET Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsdPrg&layout=compact&theme=tokyonight&hide_border=true"/>
+ASP.NET Core • Entity Framework Core • SignalR • Blazor • Identity • Minimal API
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📦 Libraries & Tools
+
+```
+MediatR
+AutoMapper
+FluentValidation
+Serilog
+Hangfire
+Dapper
+Polly
+Quartz.NET
+Swashbuckle
+Newtonsoft.Json
+Health Checks
+JWT Authentication
+```
+
+---
+
+# 🏗️ Architecture
+
+```
+✓ Clean Architecture
+✓ CQRS Pattern
+✓ Domain Driven Design (DDD)
+✓ Repository Pattern
+✓ Unit Of Work
+✓ SOLID Principles
+✓ REST API Design
+✓ Microservices Architecture
+```
+
+---
+
+# 🗄️ Database & Infrastructure
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mmsdPrg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+SQL Server • Redis • Elasticsearch • RabbitMQ • Docker
+
 </p>
+
 ---
 
-
-<h2 align="center">🎵 Spotify</h2>
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7c3aed&bar_color_cover=false"/>
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsdPrg&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsdPrg&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect
+# 🏆 GitHub Trophies
 
-- 📧 mohammad.masoud80@gmail.com
-- 💼 https://linkedin.com/
-- 🐙 https://github.com/mmsdPrg
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mmsdPrg&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-> Code it clean. Build it scalable. Ship it with confidence. 🚀
+# 🍎 Music
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Currently%20Listening-Apple%20Music-0D1117?style=for-the-badge&logo=applemusic&logoColor=FA243C"/>
+
+</p>
+
+<p align="center">
+
+🎵 Music keeps my code flowing.
+
+<br>
+
+<sub>
+Coding with .NET & good music 🍎
+</sub>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mohammad.masoud80@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://github.com/mmsdPrg">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Build clean. Think scalable. Ship better.
+
+</div>
