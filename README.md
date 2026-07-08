@@ -7,7 +7,6 @@
 
 ---
 
-<img align="right" width="250" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 🚀 About Me
 - 💻 Backend Developer (.NET / ASP.NET Core)
