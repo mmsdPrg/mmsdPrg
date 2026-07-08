@@ -101,8 +101,7 @@ public class MohammadSalehMasoud
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsdPrg&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmsdPrg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -114,18 +113,18 @@ public class MohammadSalehMasoud
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmsdPrg&theme=tokyonight&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mmsdPrg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
-
 ---
 
-## 🐍 Contribution Snake
 
-> Replace `mmsdPrg` with your GitHub username if needed.
+<h2 align="center">🎵 Spotify</h2>
 
-```html
-<img src="https://raw.githubusercontent.com/mmsdPrg/mmsdPrg/output/github-contribution-grid-snake-dark.svg" />
-```
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7c3aed&bar_color_cover=false"/>
+  </a>
+</p>
 
 ---
 
