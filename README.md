@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saleh Masoud</h1>
 
 <h3 align="center">
-Backend Developer | .NET Developer | Clean Architecture Enthusiast
+Backend Developer | .NET Developer
 </h3>
 
 <p align="center">
@@ -20,9 +20,9 @@ Backend Developer | .NET Developer | Clean Architecture Enthusiast
 public class MohammadSalehMasoud
 {
     public string Role => "Backend Developer";
-    public string MainStack => ".NET / ASP.NET Core";
-    public string Database => "SQL Server";
-    public string Architecture => "Clean Architecture";
+    public string MainStack => ".NET / ASP.NET Core / React / Js / Next JS";
+    public string Database => "SQL Server , Postgresql , Mongo";
+
 
     public string[] Skills =>
     [
@@ -31,7 +31,7 @@ public class MohammadSalehMasoud
         "System Design",
         "Microservices",
         "Database Optimization",
-        "Clean Code"
+
     ];
 }
 ```
